@@ -3,7 +3,7 @@
   
   # Hey there, I'm Charles 👋
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;MERN+Stack+Enthusiast;Problem+Solver;Code+Craftsman)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Problem+Solver)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://twitter.com/charlesleooo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
