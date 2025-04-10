@@ -41,13 +41,13 @@ I'm a passionate web developer from the Philippines, currently focusing on maste
     <tr>
       <td>
         <a href="https://charlesondev.netlify.app" target="_blank">
-          <img src="https://api.apiflash.com/v1/urltoimage?access_key=your_access_key&url=https://charlesondev.netlify.app&format=jpeg&quality=100&width=800" alt="Portfolio Preview" width="400"/>
+          <img src="portfolio.png" alt="Portfolio Preview" width="400"/>
         </a>
       </td>
       <td>
         <h3>✨ Check out my work</h3>
-        <p>Visit my portfolio to see my latest projects and get in touch for collaborations.</p>
-        <p>I specialize in creating responsive web applications with modern frameworks and clean, efficient code.</p>
+        <p>I'm Charles Leo, a Full-Stack Developer specializing in building responsive, user-friendly web applications with modern technologies.</p>
+        <p>My portfolio showcases projects that demonstrate my commitment to creating seamless performance and excellent user experiences.</p>
         <a href="https://charlesondev.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/View%20Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="View Portfolio" />
         </a>
@@ -83,4 +83,7 @@ I'm a passionate web developer from the Philippines, currently focusing on maste
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+</div>
+  
+  ### Let's connect and build something amazing together! 💻
 </div>
