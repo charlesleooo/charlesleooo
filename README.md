@@ -3,14 +3,18 @@
   
   # Hey there, I'm Charles 👋
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Problem+Solver)](https://git.io/typing-svg)
+   
+   ### Let's connect and build something amazing together! 💻
+  </div>
+  
+  
+
   
   <p align="center">
     <a href="https://twitter.com/charlesleooo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/charles-leo-palomares-b0b84a300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="https://facebook.com/charlespalomares03" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-    <a href="https://instagram.com/charlesleooo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-    <a href="https://charlesondev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://charlesondev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"                  alt="Portfolio" />
+</a>
   </p>
 </div>
 
@@ -19,42 +23,14 @@
 ```javascript
 const charles = {
   location: "Philippines",
-  occupation: "Web Developer",
+  occupation: "Full-Stack Web Developer",
   learning: "MERN Stack",
   hobbies: ["Sports", "Computer Games"],
-  codeMessage: "Building digital experiences one line at a time.",
+  codeMessage: "Experience is the name everyone gives to their mistakes.",
 };
 ```
 
 I'm a passionate web developer from the Philippines, currently focusing on mastering the MERN stack. When I'm not coding, you'll find me playing sports or diving into computer games.
-
-## 💼 Portfolio
-
-<div align="center">
-  <a href="https://charlesondev.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-charlesondev.netlify.app-blueviolet?style=for-the-badge" alt="Portfolio" />
-  </a>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://charlesondev.netlify.app" target="_blank">
-          <img src="portfolio.png" alt="Portfolio Preview" width="400"/>
-        </a>
-      </td>
-      <td>
-        <h3>✨ Check out my work</h3>
-        <p>I'm Charles Leo, a Full-Stack Developer specializing in building responsive, user-friendly web applications with modern technologies.</p>
-        <p>My portfolio showcases projects that demonstrate my commitment to creating seamless performance and excellent user experiences.</p>
-        <a href="https://charlesondev.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="View Portfolio" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🚀 Skills & Technologies
 
@@ -85,5 +61,4 @@ I'm a passionate web developer from the Philippines, currently focusing on maste
 
 </div>
   
-  ### Let's connect and build something amazing together! 💻
-</div>
+ 
