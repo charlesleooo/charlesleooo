@@ -30,7 +30,7 @@ const charles = {
 };
 ```
 
-I'm a passionate web developer from the Philippines, currently focusing on mastering the MERN stack. When I'm not coding, you'll find me playing sports or diving into computer games.
+I'm a passionate Full-Stack Web Developer from the Philippines, currently focusing on mastering the MERN stack. When I'm not coding, you'll find me playing sports or diving into computer games.
 
 ## 🚀 Skills & Technologies
 
