@@ -1,16 +1,19 @@
 <div align="center">
   
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Charles%20Leo%20Palomares&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=50"/>
+  <!-- Animated Header with Wave Effect -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Charles%20Leo%20Palomares&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20from%20the%20Philippines&descAlignY=55&descAlign=50"/>
   
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Charles+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%A1;Building+Amazing+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
+  <!-- Multi-line Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there%2C+I'm+Charles+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%A1;Building+Amazing+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
   
-  <!-- Animated GIF -->
-  <img height="200" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <!-- Animated Developer GIF -->
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
   
-  <!-- Social Links with Hover Animation -->
-  <div style="margin: 20px 0;">
+  <!-- Profile Views with Animation -->
+  <img src="https://komarev.com/ghpvc/?username=charlesleooo&style=flat-square&color=blueviolet&animated=true" alt="Profile Views"/>
+  
+  <!-- Social Links with Glowing Effect -->
+  <div style="margin: 30px 0;">
     <a href="https://twitter.com/charlesleooo" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
     </a>&nbsp;
@@ -27,12 +30,15 @@
   
 </div>
 
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Line"/>
+
 ## 🎯 About Me
 
 <div align="center">
   
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=charlesleooo&style=flat-square&color=blue" alt="Profile Views"/>
+  <!-- Animated Coding GIF -->
+  <img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Animation"/>
   
 </div>
 
@@ -40,63 +46,102 @@
 const charles = {
   location: "🇵🇭 Philippines",
   occupation: "Full-Stack Web Developer",
-  currentFocus: "MERN Stack & Modern Web Technologies",
-  learning: ["Next.js", "TypeScript", "Docker", "AWS"],
-  hobbies: ["⚽ Sports", "🎮 Gaming", "📚 Tech Books"],
+  currentFocus: "MERN Stack Development",
+  learning: ["React", "Node.js", "MongoDB", "Express.js"],
+  hobbies: ["⚽ Sports", "🎮 Computer Games"],
   codePhilosophy: "Experience is the name everyone gives to their mistakes.",
-  funFact: "I debug with console.log and I'm proud of it! 😄",
-  availableForHire: true
+  currentStatus: "Available for projects and collaborations",
+  favoriteLanguage: "JavaScript",
+  workingOn: "Improving my MERN stack skills",
+  askMeAbout: ["Web Development", "JavaScript", "React", "Node.js"]
 };
 ```
 
 <div align="center">
   
-  <!-- Current Activity -->
+  <!-- GitHub Activity Graph with Animation -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charlesleooo&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
   
 </div>
 
-## 🚀 Tech Stack & Tools
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored Line"/>
+
+## 🚀 Tech Stack & Skills
 
 <div align="center">
 
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,bootstrap" alt="Frontend Skills"/>
+### 🎨 Frontend Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend Skills"/>
 
-### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,laravel,python,java" alt="Backend Skills"/>
+### ⚙️ Backend Technologies  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel&theme=dark" alt="Backend Skills"/>
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=javascript,java,python,php&theme=dark" alt="Programming Languages"/>
 
 ### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,yarn,webpack" alt="Tools"/>
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,heroku,firebase" alt="Cloud Skills"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/>
 
 </div>
+
+<!-- Animated Tech Stack -->
+<div align="center">
+  
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" alt="Fire Line"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
-  <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesleooo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesleooo&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <!-- Animated GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesleooo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesleooo&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=ff6b6b&text_color=ffffff&bg_color=0d1117"/>
   
 </div>
 
 <div align="center">
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesleooo&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Streak with Animation -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesleooo&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak"/>
   
 </div>
+
+<div align="center">
+  
+  <!-- Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/charlesleooo/charlesleooo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Aqua Line"/>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
   
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=charlesleooo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <!-- GitHub Trophies with Animation -->
+  <img src="https://github-profile-trophy.vercel.app/?username=charlesleooo&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  
+</div>
+
+## 🌱 Learning Journey
+
+<div align="center">
+  
+  <!-- Current Learning Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=4ecdc4&center=true&vCenter=true&width=600&lines=Currently+mastering+the+MERN+Stack+%F0%9F%93%9A;Building+projects+with+React+%E2%9A%9B%EF%B8%8F;Learning+Node.js+and+Express+%F0%9F%9A%80;Exploring+MongoDB+databases+%F0%9F%8D%83;Improving+JavaScript+skills+daily+%F0%9F%92%AA" alt="Learning Animation" />
   
 </div>
 
@@ -104,58 +149,42 @@ const charles = {
 
 <div align="center">
   
-  ```mermaid
-  graph TD
-      A[🚀 Current Projects] --> B[E-commerce Platform]
-      A --> C[Personal Portfolio v2.0]
-      A --> D[Open Source Contributions]
-      
-      B --> E[React + Node.js]
-      C --> F[Next.js + TypeScript]
-      D --> G[Community Projects]
-      
-      style A fill:#ff6b6b
-      style B fill:#4ecdc4
-      style C fill:#45b7d1
-      style D fill:#96ceb4
-  ```
+  <!-- Project Status Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=96ceb4&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+%F0%9F%8F%97%EF%B8%8F;Creating+responsive+user+interfaces+%F0%9F%8E%A8;Developing+REST+APIs+with+Node.js+%F0%9F%94%A7;Working+on+my+portfolio+website+%F0%9F%8C%90;Contributing+to+open+source+projects+%F0%9F%A4%9D" alt="Current Work" />
   
 </div>
 
-## 🌱 Currently Learning
+## 🎯 Current Goals
 
-<div align="center">
-  
-  <!-- Learning Progress -->
-  <img src="https://progress-bar.dev/85/?title=React%20Advanced&width=200&color=61dafb" alt="React Progress"/>
-  <img src="https://progress-bar.dev/70/?title=Node.js&width=200&color=339933" alt="Node.js Progress"/>
-  <img src="https://progress-bar.dev/60/?title=MongoDB&width=200&color=47A248" alt="MongoDB Progress"/>
-  <img src="https://progress-bar.dev/75/?title=TypeScript&width=200&color=3178C6" alt="TypeScript Progress"/>
-  
-</div>
-
-## 🎯 2024 Goals
-
-- 🚀 Complete 3 major full-stack projects
-- 📚 Master TypeScript and Next.js
-- 🤝 Contribute to 10+ open source projects
-- 💡 Launch my own SaaS product
-- 📝 Write technical blog posts
-- 🏆 Achieve 1000+ GitHub stars
+- 🚀 Master the MERN stack completely
+- 💼 Build impressive full-stack projects
+- 🤝 Contribute to open source projects
+- 📚 Learn advanced JavaScript concepts
+- 🏆 Improve problem-solving skills
+- 🌐 Deploy projects to production
 
 ## 💬 Let's Connect!
 
 <div align="center">
   
-  <!-- Contact Section -->
-  <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for Hire"/>
+  <!-- Contact Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=f39c12&center=true&vCenter=true&width=600&lines=Let's+build+something+amazing+together!+%F0%9F%92%BB;Always+open+to+new+opportunities+%F0%9F%9A%80;Ready+to+collaborate+on+projects+%F0%9F%A4%9D;Feel+free+to+reach+out+anytime!+%F0%9F%93%A7" alt="Contact Animation" />
   
-  **I'm always open to interesting conversations and collaboration opportunities!**
+  **I'm passionate about web development and always eager to learn!**
   
-  📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
   🌐 **Portfolio:** [charlesondev.netlify.app](https://charlesondev.netlify.app)  
   💼 **LinkedIn:** [Charles Leo Palomares](https://www.linkedin.com/in/charles-leo-palomares-b0b84a300)  
   🐦 **Twitter:** [@charlesleooo](https://twitter.com/charlesleooo)  
+  
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%" alt="Vintage Line"/>
+
+<div align="center">
+  
+  <!-- Fun Facts Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=5000&pause=1000&color=e74c3c&center=true&vCenter=true&width=600&lines=Fun+fact%3A+I+love+playing+sports+in+my+free+time+%E2%9A%BD;I+enjoy+computer+games+when+I'm+not+coding+%F0%9F%8E%AE;Coffee+fuels+my+coding+sessions+%E2%98%95;I+believe+mistakes+are+the+best+teachers+%F0%9F%93%96;Always+excited+to+learn+new+technologies+%F0%9F%A4%93" alt="Fun Facts" />
   
 </div>
 
@@ -164,10 +193,11 @@ const charles = {
 <div align="center">
   
   <!-- Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
   
-  **✨ Made with ❤️ by Charles Leo Palomares**
+  <!-- Footer Message Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Have+an+amazing+day!+%F0%9F%8C%9F;Keep+coding+and+stay+awesome!+%F0%9F%92%AB" alt="Footer Animation" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+Have+a+great+day!+%F0%9F%8C%9F" alt="Footer Typing SVG" />
+  **✨ Made with ❤️ and lots of ☕ by Charles Leo Palomares**
   
 </div>
