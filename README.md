@@ -29,20 +29,13 @@
 const charles = {
     location: "General Santos City, Philippines 🇵🇭",
     education: "STI College Gen. Santos - Computer Science",
-    currentRole: "Full Stack Developer Intern",
+    currentRole: "Application Developer / Programmer",
     company: "Alsons Aquaculture Corporation",
     codeStyle: ["Clean", "Scalable", "Efficient"],
-    currentFocus: "Building innovative web solutions",
-    funFact: "I turn coffee into code ☕→💻"
+    currentFocus: "Building innovative app solutions",
 };
 ```
 
-🎓 Computer Science student with practical full-stack development experience  
-💼 Currently building enterprise solutions at Alsons Aquaculture Corporation  
-🌱 Always learning new technologies and best practices  
-⚡ Passionate about creating scalable, user-friendly applications
-
----
 
 ## 🛠️ Tech Stack
 
