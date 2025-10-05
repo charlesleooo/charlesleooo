@@ -1,8 +1,9 @@
 <div align="center">
 
-# 👋 Charles Leo H. Palomares
-
-<h1>Full-Stack Developer</h1>
+<h1 align="center">
+  Charles Leo H. Palomares <br>
+  <span style="font-size:20px; font-weight:normal;">Full-Stack Developer</span>
+</h1>
 
 <p>
   <a href="mailto:charlesleoherrera@gmail.com">
