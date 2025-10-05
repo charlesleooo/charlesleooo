@@ -161,8 +161,3 @@ Soft Skills:
 
 ---
 
-*"Code is poetry written in logic"* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</di
