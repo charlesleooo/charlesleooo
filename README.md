@@ -2,7 +2,7 @@
 
 # 👋 Charles Leo H. Palomares
 
-### Full-Stack Developer
+<h1>Full-Stack Developer</h1>
 
 <p>
   <a href="mailto:charlesleoherrera@gmail.com">
