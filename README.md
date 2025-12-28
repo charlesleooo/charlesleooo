@@ -2,10 +2,8 @@
 
 <h1 align="center">
   Charles Leo H. Palomares <br>
-  <span style="font-size:20px; font-weight:normal;">Full-Stack Developer</span>
-</h1>
-
-<p>
+  <span style="font-size:20px; font-weight:normal;">Full-Stack Developer</span><br>
+  <p><br>
   <a href="mailto:charlesleoherrera@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -16,25 +14,11 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+</h1>
 
-<img src="https://komarev.com/ghpvc/?username=charlesleooo&color=blueviolet&style=flat-square" alt="Profile views"/>
+
 
 </div>
-
----
-
-## 🚀 About Me
-```javascript
-const charles = {
-    location: "General Santos City, Philippines 🇵🇭",
-    education: "STI College Gen. Santos - Computer Science",
-    currentRole: "Application Developer / Programmer",
-    company: "Alsons Aquaculture Corporation",
-    codeStyle: ["Clean", "Scalable", "Efficient"],
-    currentFocus: "Building innovative app solutions",
-};
-```
-
 
 ## 🛠️ Tech Stack
 
@@ -118,39 +102,6 @@ Complete online bakery store with inventory management and secure payments.
 
 **Stack:** `PHP` `JavaScript` `MySQL` `Bootstrap`
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesleooo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesleooo&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesleooo&theme=radical&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎯 Core Competencies
-```yaml
-Technical:
-  - Full-Stack Web Development
-  - Database Design & Optimization
-  - RESTful API Development
-  - Responsive UI/UX Design
-  - Version Control (Git)
-
-Soft Skills:
-  - Problem Solving
-  - Team Collaboration
-  - Time Management
-  - Critical Thinking
-  - Continuous Learning
-```
-
----
 
 <div align="center">
 
