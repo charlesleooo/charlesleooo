@@ -58,50 +58,6 @@
 </p>
 </div>
 
----
-
-## 💼 Featured Projects
-
-### 🏢 User Access Request Form System
-**Alsons Aquaculture Corporation**
-
-Enterprise system for managing user access requests with streamlined approval workflows.
-
-- ✅ Built admin dashboard for request management
-- 📧 Implemented automated email notification system
-- 🔐 Designed secure role-based access control
-- 🗄️ Optimized database schema for scalability
-
-**Stack:** `PHP` `Laravel` `MySQL` `Tailwind`
-
----
-
-### 🌾 Web-Based Farmer's Market
-**Thesis Project** | *STI College Gen. Santos*
-
-E-commerce platform connecting farmers directly with customers, featuring AI-powered forecasting.
-
-- 🛒 Developed full-featured marketplace with cart system
-- 📊 Implemented supply-demand forecasting algorithm
-- 💳 Integrated multiple payment gateways
-- 📱 Created responsive design for all devices
-
-**Stack:** `PHP` `JavaScript` `MySQL` `Bootstrap`
-
----
-
-### 🧁 Martina's Indulgence Bakeshop
-**eCommerce Platform**
-
-Complete online bakery store with inventory management and secure payments.
-
-- 🎂 Built product catalog and shopping cart functionality
-- 🔐 Implemented secure user authentication system
-- 💰 Integrated payment processing
-- 📦 Created admin panel for inventory management
-
-**Stack:** `PHP` `JavaScript` `MySQL` `Bootstrap`
-
 
 <div align="center">
 
