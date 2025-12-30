@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Charles Leo H. Palomares <br>
-  <span style="font-size:20px; font-weight:normal;">Full-Stack Developer</span><br>
+  <span style="font-size:20px; font-weight:normal;">Software Developer</span><br>
   <p><br>
   <a href="mailto:charlesleoherrera@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
